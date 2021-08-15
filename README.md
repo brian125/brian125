@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Brayan Silva
+- 🌱 I’m currently learning Node.js - React.js
